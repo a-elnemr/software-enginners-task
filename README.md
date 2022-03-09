@@ -1,5 +1,11 @@
 # Software Engineers Task
 
+# How to submit your challenge?
+
+- Create private repository on Github.
+- Create a new branch and push your commits to as you would do in a real-world task.
+- Reply to the task email with repository link to confirm you already finished the task.
+
 # User **Feed**
 
 The idea of this project is to implement a solution for discovering user feed based on followed users
